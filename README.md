@@ -18,7 +18,7 @@ pip2 install bs4
 
 rm -rf joy  
 
-git clone https://github.com/Shohag-Cyber/Shohag-fb-Crack  
+git clone https://github.com/Shohag-Cyber/Shohag-Fb-Crack  
 
 cd Shohag-Fb-Crack
 
